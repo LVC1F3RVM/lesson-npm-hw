@@ -1,0 +1,23 @@
+{
+  "name": "lesson-npm-hw",
+  "version": "1.0.0",
+  "description": "Lesson #2 NPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVC1F3RVM/lesson-npm-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LVC1F3RVM/lesson-npm-hw/issues"
+  },
+  "homepage": "https://github.com/LVC1F3RVM/lesson-npm-hw#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
