@@ -1,11 +1,15 @@
-const _ = require("lodash");
+// const _ = require("lodash");
 
-var foodObject = { 
-    "kebab": "roll", 
-    "burger": "pizza", 
-    "lasagna": "pasta" 
-};
+// const foodObject = { 
+//     "kebab": "roll", 
+//     "burger": "pizza", 
+//     "lasagna": "pasta" 
+// };
 
-var invrtdRslt = _.invert(foodObject);
+// const invrtdRslt = _.invert(foodObject);
 
-console.log(invrtdRslt);
+// module.exports = invrtdRslt;
+
+const invrtdfnctn = require("./invrtdRslt");
+
+console.log(invrtdfnctn);
