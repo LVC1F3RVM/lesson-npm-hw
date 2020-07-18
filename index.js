@@ -6,6 +6,6 @@ var foodObject = {
     "lasagna": "pasta" 
 };
 
-var invrtRslt = _.invert(foodObject);
+var invrtdRslt = _.invert(foodObject);
 
-console.log(invrtRslt);
+console.log(invrtdRslt);
