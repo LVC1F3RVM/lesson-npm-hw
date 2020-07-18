@@ -1,3 +1,3 @@
-const invrtdfnctn = require("./invrtdRslt");
+const invrtdfnctn = require("./food");
 
 console.log(invrtdfnctn);
