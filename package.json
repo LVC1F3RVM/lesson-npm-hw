@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/LVC1F3RVM/lesson-npm-hw#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   }
 }
